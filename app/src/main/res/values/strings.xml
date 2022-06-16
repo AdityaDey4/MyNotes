@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_app">My Notes is a simple application where we can Create our Notes as well as Read,
+        Update, Delete and Share those Notes as Well.\nHope this application will help you.</string>
+    <string name="read">To Read any Notes click on Notes which is created by yourself.</string>
+    <string name="Delete">For Deleting Notes just swipe left or right by pressing the Specific Note.</string>
+    <string name="create">To Create any Notes you just have to click \'+\' button, then write your Notes.</string>
+    <string name="update">Through clicking the Notes, a interface will be opened where you can Update your Notes.</string>
+    <string name="share">To Share any Note just click on the specific note and click to the share button.</string>
+    <string name="deleteAll">Just click \'"Delete All Notes"\' option which is in the toolbar, to Delete All Notes at once.</string>
+</resources>
